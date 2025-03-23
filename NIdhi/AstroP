@@ -1,0 +1,20 @@
+5 Ways you can use code as an astrophysicist:
+
+
+1. Image Processing
+Somehow, the data (which are images in our case) have noise; this noise can be from the atmosphere or light from another exoplanet that we are not interested in, so you need to reduce this noise. Or, for example, you need to know how many pulsars are detected in a specific image. This can be done easily using Python, either by iterating on each pixel in the image and comparing them to know the blighter's location or applying any functionality that solves your problem. 
+
+
+2. Data Analysis
+You can answer your questions by doing calculations on some data or filtering the data. Python shines in this area. As I have mentioned before, Python is perfect for handling enormous amounts of data. Also, perfect for manipulating the data, and many others. Furthermore, Python is better than Excel sheets when it comes to handling massive amounts of data.
+
+3. Model Fitting
+Fitting a model to your data helps you understand the data better and also helps you to understand the science and physics behind the data. By fitting a good model and plotting simple plots, you can make conclusions and know what is going on. Furthermore, you can test if this data complies with the laws of physics. By writing suitable commands, Python will give you great results.
+
+
+4. Data Visualization
+Sometimes you need to see your data, whether by making a simple histogram or building interactive 3D graphs to see relationships more clearly. "Matplotlib" is a great package that lets you make nearly any graph you want using Python.
+
+5. Simulations
+Simulation gives you answers to complicated and interesting questions, such as: what happens when galaxies collide? This happens when you apply the laws of physics as a code and run it. It is a very interesting and complex concept, but the results are worth it.
+
